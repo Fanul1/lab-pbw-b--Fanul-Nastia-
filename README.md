@@ -2,5 +2,5 @@
  
 ## Data Diri
  
- * Nama: Fanul Nastia
- * NPM: 2108107010029
+* Nama: Fanul Nastia
+* NPM: 2108107010029
