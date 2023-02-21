@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(100, 143, 96);
+    font-family: Verdana;
+}
+
+h1 {
+    color: rgb(39, 11, 163);
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.card-profile { 
+    font-family: sans-serif;
+    width: 500px;
+    border: 1px solid black;
+    padding: 20px;
+    float: right;
+    margin-top: 50px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.content p {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.card-profile img {
+    width: 150px;
+    height: 250px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    vertical-align: middle;
+    border: black 5px solid;
+    float:left;
+}
+
+table {
+    border: black;
+    margin: auto;
+    border: 1px;
+    padding: 2px;
+    width: 50%;
+}
+
+th {
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+}
+
+td {
+    background-color: rgb(12, 5, 109);
+    font-size: 15px;
+    color: white;
+}
+
+header {
+    padding: 10px;
+    text-align: center;
+    background: rgb(150, 132, 31);
+    color: rgb(55, 243, 38);
+    font-size: 2cm;
+    font-weight: bold;
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgb(4, 255, 45);
+    color: #fff;
+    text-align: center;
+}  
